@@ -1,0 +1,12 @@
+{
+  "name": "raqeeb-slackbot",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@slack/bolt": "^3.19.0",
+    "axios": "^1.6.2",
+    "express": "^4.18.2"
+  }
+}
